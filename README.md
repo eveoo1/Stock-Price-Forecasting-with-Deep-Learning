@@ -1,1 +1,2 @@
 # Stock-Price-Forecasting-with-Deep-Learning
+In this project, I built and compared LSTM and Transformer models to forecast S&P 500 prices using technical indicators and time-series windows. While LSTM handled short-term trends well, the Transformer excelled at capturing long-range dependencies through attention mechanisms. I evaluated both using RMSE and directional accuracy, and visualized attention weights to interpret model decisions—skills highly relevant to data-driven financial prediction and model explainability.
